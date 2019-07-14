@@ -6,7 +6,7 @@ namespace CreateClass
     class Program
     {
         public enum Gender { Male, Female }
-        class Person
+        public class Person
         {
             private String name;
             private DateTime birthDate;
