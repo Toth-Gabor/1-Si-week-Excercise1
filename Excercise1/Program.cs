@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Excercise1
+namespace CreateClass
 {
     class Program
     {
